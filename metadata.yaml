@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38084
     wikipedia: http://en.wikipedia.org/wiki/Caroline_Cornwallis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36113#Christian-Sects-in-the-Nineteenth-Century
 gutenberg_issued: '2011-05-15'
 gutenberg_type: Text
 identifiers:
