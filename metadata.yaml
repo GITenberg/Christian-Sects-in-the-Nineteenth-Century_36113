@@ -1,0 +1,32 @@
+_repo: Christian-Sects-in-the-Nineteenth-Century_36113
+_version: 0.1.0
+alternative_title: Christian Sects in the 19th Century
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cornwallis, Caroline Frances
+    aliases:
+    - Brown, Thomas, redivivus
+    - Redivivus, Thomas Brown
+    - Cornwallis, C. F. (Caroline Frances)
+    birthdate: 1786
+    deathdate: 1858
+    gutenberg_agent_id: '38084'
+    url: http://www.gutenberg.org/2009/agents/38084
+    wikipedia: http://en.wikipedia.org/wiki/Caroline_Cornwallis
+description: ''
+gutenberg_issued: '2011-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Christian sects -- History -- 19th century'
+title: Christian Sects in the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/36113
